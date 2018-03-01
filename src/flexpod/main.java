@@ -1497,7 +1497,7 @@ String ver = "0.0.2";
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(new JFrame(),"FlexPod Point-to-Point Generator v" + ver + "\n\nThis program is intended to provide an end-to-end\ncabling layout to our customers. This program is for\ninternal use only and should not be given to anyone\nor any company without Avnet's premission.\n\nEmail Karl Baker (Karl.Baker@avnet.com) for any \nquestions.", "About FlexPod Point-to-Point Generator", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(new JFrame(),"FlexPod Point-to-Point Generator v" + ver + "\n\nThis program is intended to provide an end-to-end\ncabling layout to our customers. This program is for\ninternal use only and should not be given to anyone\nor any company without Avnet's premission.\n\nEmail Karl Baker (Karl.J.Baker@gmail.com) for any \nquestions.", "About FlexPod Point-to-Point Generator", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     private void jComboBox50ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox50ActionPerformed
